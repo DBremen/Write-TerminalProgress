@@ -1,5 +1,7 @@
 # Write-TerminalProgress
 
+PowerShell terminal spinner progress cmdlet. See related [blog post](https://powershellone.wordpress.com/?p=1506.)
+
 ## SYNOPSIS
 PowerShell function to indicate progress, using cli-spinner icons, during longer running tasks.
 

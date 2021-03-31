@@ -48,6 +48,7 @@
         https://github.com/sindresorhus/cli-spinners
 
     .LINK
+		https://powershellone.wordpress.com/?p=1506
    #>
     [CmdletBinding()]
     Param(
